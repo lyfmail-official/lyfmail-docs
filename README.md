@@ -36,11 +36,11 @@ The live site covers five core knowledge pillars:
 
 | Category | Topics Covered | Live URL |
 |----------|---------------|----------|
-| **Health & Wellness** | Fitness, nutrition, mental health, holistic living, preventive care. | [docs.lyfmail.com/health](https://docs.lyfmail.com) |
-| **Business & Investment / Finance** | Entrepreneurship, financial literacy, investing, digital business. | [docs.lyfmail.com/business](https://docs.lyfmail.com) |
-| **Employment & Career** | Resume writing, interviews, upskilling, workplace productivity. | [docs.lyfmail.com/career](https://docs.lyfmail.com) |
-| **Arts & Creativity / Entertainment** | Visual arts, creative writing, design thinking, media trends. | [docs.lyfmail.com/creativity](https://docs.lyfmail.com) |
-| **Self-Help / Intuition** | Mindfulness, confidence building, relationships, positive mindset. | [docs.lyfmail.com/self-help](https://docs.lyfmail.com) |
+| **Health & Wellness** | Fitness, nutrition, mental health, holistic living, preventive care. | [https://docs.lyfmail.com/health-wellness](https://docs.lyfmail.com/health-wellness) |
+| **Business & Investment / Finance** | Entrepreneurship, financial literacy, investing, digital business. | [https://docs.lyfmail.com/financing](https://docs.lyfmail.com/financing) |
+| **Employment & Career** | Resume writing, interviews, upskilling, workplace productivity. | [https://docs.lyfmail.com/career](https://docs.lyfmail.com/career) |
+| **Arts & Creativity / Entertainment** | Visual arts, creative writing, design thinking, media trends. | [https://docs.lyfmail.com/unlocking-creativity-expression-and-culture](https://docs.lyfmail.com/unlocking-creativity-expression-and-culture) |
+| **Self-Help / Intuition** | Mindfulness, confidence building, relationships, positive mindset. | [https://docs.lyfmail.com/self-help-intuition](https://docs.lyfmail.com/self-help-intuition) |
 
 ---
 
