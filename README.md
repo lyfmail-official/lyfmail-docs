@@ -3,6 +3,7 @@
 **Complete developer documentation, setup guides, API references, PWA tutorials, and brand integration instructions for the LYF Mail privacy-first digital wellness platform and all open-source tools.**
 
 [![Live Docs](https://img.shields.io/badge/Live%20Docs-docs.lyfmail.com-blue)](https://docs.lyfmail.com)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://lyfmail-official.github.io/lyfmail-docs/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/lyfmail-official/lyfmail-docs/blob/main/LICENSE)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Welcome-orange)](https://github.com/lyfmail-official/lyfmail-docs)
 [![Maintained by LYF Mail](https://img.shields.io/badge/Maintained%20by-LYF%20Mail-purple)](https://lyfmail.com)
