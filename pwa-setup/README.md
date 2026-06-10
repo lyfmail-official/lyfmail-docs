@@ -4,10 +4,10 @@ Learn how to build, configure, and deploy Progressive Web Apps within the LYF Ma
 
 ## Topics
 
-- [File Structure](file-structure.md) — Standard LYF Mail PWA directory layout.
-- [Manifest Configuration](manifest-configuration.md) — `manifest.json` best practices.
-- [Service Worker](service-worker.md) — Caching strategies and offline support.
-- [Offline Mode](offline-mode.md) — Designing for low-connectivity environments.
+- File Structure — Standard LYF Mail PWA directory layout.
+- Manifest Configuration — `manifest.json` best practices.
+- Service Worker — Caching strategies and offline support.
+- Offline Mode — Designing for low-connectivity environments.
 
 ## Principles
 
