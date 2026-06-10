@@ -17,9 +17,9 @@ Welcome to the LYF Mail ecosystem! This section will help you understand the pla
 
 New to LYF Mail? Start here:
 
-1. [System Requirements](system-requirements.md) — Check compatibility
-2. [Quick Start Guide](quick-start.md) — Deploy in 10 minutes
-3. [Architecture Overview](architecture-overview.md) — Understand the ecosystem
+1. System Requirements — Check compatibility.
+2. Quick Start Guide — Deploy in 10 minutes.
+3. Architecture Overview — Understand the ecosystem.
 
 ## Need Help?
 
