@@ -38,4 +38,4 @@
 ## Testing
 
 Use Chrome DevTools → Application → Manifest to validate.
-```
+
