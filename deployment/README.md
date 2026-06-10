@@ -2,14 +2,14 @@
 
 Step-by-step instructions for deploying LYF Mail projects on various platforms.
 
-## Available Guides
+## Guides
 
-- [CyberPanel](cyberpanel.md) — Deploy on CyberPanel with OpenLiteSpeed.
-- [OpenLiteSpeed](openlitespeed.md) — Standalone OpenLiteSpeed configuration.
-- [Cloudflare Pages](cloudflare-pages.md) — Edge deployment with CI/CD.
-- [GitHub Pages](github-pages.md) — Free static hosting for documentation.
-- [VPS with Nginx](vps-nginx.md) — Self-hosted Ubuntu/Debian deployment.
-- [Shared Hosting](shared-hosting.md) — cPanel and DirectAdmin guides.
+- [CyberPanel] — Deploy on CyberPanel with OpenLiteSpeed.
+- [OpenLiteSpeed] — Standalone OpenLiteSpeed configuration.
+- [Cloudflare Pages] — Edge deployment with CI/CD.
+- [GitHub Pages] — Free static hosting for documentation.
+- [VPS with Nginx] — Self-hosted Ubuntu/Debian deployment.
+- [Shared Hosting] — cPanel and DirectAdmin guides.
 
 ## Choosing a Platform
 
