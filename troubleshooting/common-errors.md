@@ -64,5 +64,3 @@ uses: actions/deploy-pages@v4
 
 ---
 
-## Priority 3: PWA Core Files
-*Essential for anyone building PWAs in the LYF Mail ecosystem.*
