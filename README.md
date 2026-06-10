@@ -172,60 +172,17 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) for contribution guidelines.
 lyfmail-docs/
 ├── getting-started/
 │   ├── README.md
-│   ├── system-requirements.md
-│   ├── quick-start.md
-│   └── architecture-overview.md
+│   
 ├── pwa-setup/
 │   ├── README.md
-│   ├── file-structure.md
-│   ├── manifest-configuration.md
-│   ├── service-worker.md
-│   └── offline-mode.md
 ├── deployment/
 │   ├── README.md
-│   ├── cyberpanel.md
-│   ├── openlitespeed.md
-│   ├── cloudflare-pages.md
-│   ├── github-pages.md
-│   ├── vps-nginx.md
-│   └── shared-hosting.md
-├── technical-references/
-│   ├── README.md
-│   ├── api-documentation.md
-│   ├── caching-strategies.md
-│   ├── security-headers.md
-│   ├── web-performance.md
-│   └── accessibility.md
+│ 
 ├── developer-tutorials/
 │   ├── README.md
-│   ├── integrating-components.md
-│   ├── privacy-first-pwa-patterns.md
-│   ├── subdomain-seo-strategy.md
-│   ├── zero-backend-architecture.md
-│   └── homomorphic-encryption-basics.md
-├── brand-integration/
-│   ├── README.md
-│   ├── logo-usage.md
-│   ├── color-palette.md
-│   ├── typography.md
-│   ├── ui-guidelines.md
-│   └── brand-voice.md
+│   
 ├── seo-content-structure/
 │   ├── README.md
-│   ├── indexing-strategy.md
-│   ├── sitemap-configuration.md
-│   ├── internal-linking.md
-│   ├── schema-markup.md
-│   └── subdomain-seo.md
-├── troubleshooting/
-│   ├── README.md
-│   ├── common-errors.md
-│   ├── performance-fixes.md
-│   ├── seo-issues.md
-│   └── security-fixes.md
-├── assets/
-│   ├── images/           # Screenshots, diagrams, architecture visuals
-│   └── diagrams/         # SVG architecture and flow diagrams
 ├── .github/
 │   └── workflows/
 │       └── deploy.yml    # GitHub Actions deployment to docs.lyfmail.com
