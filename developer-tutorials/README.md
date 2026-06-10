@@ -2,13 +2,13 @@
 
 Practical guides for building with and contributing to the LYF Mail ecosystem.
 
-## Available Tutorials
+## Tutorials
 
-- [Integrating LYF Mail Components](integrating-components.md) — Embed newsletters, forms, and tools.
-- [Building Privacy-First PWAs](privacy-first-pwa-patterns.md) — Patterns from our open-source toolkit.
-- [Subdomain SEO Strategy](subdomain-seo-strategy.md) — How LYF Mail structures content for discovery.
-- [Zero-Backend Architecture](zero-backend-architecture.md) — LocalStorage, IndexedDB, Web Crypto API.
-- [Homomorphic Encryption Basics](homomorphic-encryption-basics.md) — Privacy-preserving computation intro.
+- Integrating LYF Mail Components — Embed newsletters, forms, and tools.
+- Building Privacy-First PWAs — Patterns from our open-source toolkit.
+- Subdomain SEO Strategy — How LYF Mail structures content for discovery.
+- Zero-Backend Architecture — LocalStorage, IndexedDB, Web Crypto API.
+- Homomorphic Encryption Basics — Privacy-preserving computation intro.
 
 ## Prerequisites
 
