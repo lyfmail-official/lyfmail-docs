@@ -4,11 +4,11 @@ Learn how LYF Mail optimizes its multi-subdomain ecosystem for search engines an
 
 ## Topics
 
-- [Indexing Strategy](indexing-strategy.md) — Content structure for maximum search visibility.
-- [Sitemap Configuration](sitemap-configuration.md) — XML sitemaps for multi-subdomain sites.
-- [Internal Linking](internal-linking.md) — Cross-linking between lyfmail.com and subdomains.
-- [Schema.org Markup](schema-markup.md) — Structured data for articles, FAQs, and apps.
-- [Subdomain SEO](subdomain-seo.md) — Best practices for targeted content discovery.
+- Indexing Strategy — Content structure for maximum search visibility.
+- Sitemap Configuration — XML sitemaps for multi-subdomain sites.
+- Internal Linking — Cross-linking between lyfmail.com and subdomains.
+- Schema.org Markup — Structured data for articles, FAQs, and apps.
+- Subdomain SEO — Best practices for targeted content discovery.
 
 ## Key Principles
 
